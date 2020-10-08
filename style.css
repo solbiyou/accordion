@@ -51,7 +51,7 @@ header .tagline {
   max-height: 0;
   overflow: hidden;
   transition: 0.3s all ease;
-  margin-left: 2rem;
+  margin-left: 3rem;
 }
 
 .accordion__details p {
